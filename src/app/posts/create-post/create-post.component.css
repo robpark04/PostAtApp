@@ -1,0 +1,53 @@
+form {
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+#input {
+  font-size: 14px;
+}
+
+.title {
+  font-size: 24px;
+  width: 1250px;
+  height: 40px;
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+}
+
+#submit-btn {
+  background-color: cornflowerblue;
+  color: white;
+  border: 1px solid cornflowerblue;
+  border-radius: 10px;
+  width: 80px;
+  height: 40px;
+  font-size: 1.2rem;
+  margin-left: 600px;
+}
+
+#submit-btn:hover {
+  background-color: #ff4081;
+}
+
+#delete-btn {
+  background-color: #ff4081;
+  border: 1px solid #ff4081;
+  border-radius: 10px;
+  width: 80px;
+  height: 40px;
+  font-size: 1.2rem;
+  margin-left: 10px;
+}
+
+#delete-btn:hover {
+  background-color: cornflowerblue;
+}
+
+#delete-post {
+  color: white;
+  text-decoration: none;
+}
